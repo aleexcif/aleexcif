@@ -2,8 +2,8 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/aleexcif) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleexcif/)
 
-- 👨‍💻 Technical Support Engineer (backend) at [BoostUp.ai](https://www.boostup.ai/)
-- 🇬🇹 Currently in [Guatemala City, GT](https://g.co/kgs/HtEuAu)
-- 🚀 Building with: `Python`, `MongoDB`, `JavaScript`, `Flask`, `CLI`...
-- ✨ I have a passion for decentralization, web3, photography and design.
-- 👋 Say hi! hello@aleexcif.dev
+- 👨‍💻 Technical Support Engineer (backend) at [WhatConverts](https://www.whatconverts.com/)
+- 🇬🇹 Currently in [Guatemala City, GT](https://g.co/kgs/HtEuAu) or traveling the 🌎
+- 🚀 Building with: `Python`, `MongoDB`, `JavaScript`, `SQL`, `CLI`...
+- ✨ I'm passionate about science, technology, photography and design.
+- 👋 Say hello@aleexcif.dev
