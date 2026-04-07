@@ -1,9 +1,23 @@
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/aleexcif)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/aleexcif) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleexcif/)
 
-- 👨‍💻 Senior Technical Support Engineer (L4) at [WhatConverts](https://www.whatconverts.com/)
-- 🇬🇹 Currently in [Guatemala City, GT](https://g.co/kgs/HtEuAu) or traveling the 🌎
-- 🚀 Building with: `Python`, `MongoDB`, `JavaScript`, `SQL`, `CLI`...
-- ✨ I'm passionate about science, technology, photography and design.
-- 👋 Say hi! hello@solimancifuentes.com
+#### 🧑‍💻 About me
+- 👨‍💻 Technical professional focused on building, debugging, and improving complex systems
+- 🧠 I work across APIs, data, and integrations to solve real-world technical problems
+- 🇬🇹 Based in Guatemala · Remote-first
+
+#### ⚙️ What I do
+- Build tools and systems (APIs, MCPs, automation)
+- Architect and debug integrations across platforms
+- Improve reliability, visibility, and data accuracy
+- Translate complex technical issues into clear, actionable solutions
+
+#### 🚀 Working with
+TypeScript, JavaScript, Python, SQL, APIs, MCPs, Webhooks, and more.
+
+#### 🧩 Current focus
+- Building local-first tools and MCP servers
+- Exploring AI-assisted workflows and system design
+
+✨ Interested in technology, science, photography, and design  
+👋 hello@solimancifuentes.com
+💼 [linkedin.com/aleexcif](https://www.linkedin.com/in/aleexcif/)
