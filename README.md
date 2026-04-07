@@ -17,5 +17,5 @@ TypeScript, JavaScript, Python, SQL, APIs, MCPs, Webhooks, and more.
 - Exploring AI-assisted workflows and system design
 
 ✨ Interested in technology, science, photography, and design  
-👋 hello@solimancifuentes.com
+👋 hello@solimancifuentes.com 
 💼 [linkedin.com/aleexcif](https://www.linkedin.com/in/aleexcif/)
