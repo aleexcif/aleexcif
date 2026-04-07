@@ -6,4 +6,4 @@
 - 🇬🇹 Currently in [Guatemala City, GT](https://g.co/kgs/HtEuAu) or traveling the 🌎
 - 🚀 Building with: `Python`, `MongoDB`, `JavaScript`, `SQL`, `CLI`...
 - ✨ I'm passionate about science, technology, photography and design.
-- 👋 Say hi! business@solimancifuentes.com
+- 👋 Say hi! hello@solimancifuentes.com
