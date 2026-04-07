@@ -1,5 +1,3 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleexcif/)
-
 #### 🧑‍💻 About me
 - 👨‍💻 Technical professional focused on building, debugging, and improving complex systems
 - 🧠 I work across APIs, data, and integrations to solve real-world technical problems
