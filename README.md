@@ -1,20 +1,46 @@
-#### 🧑‍💻 About me
-- 👨‍💻 Technical professional focused on building, debugging, and improving complex systems
-- 🧠 I work across APIs, data, and integrations to solve real-world technical problems
-- 🇬🇹 Based in Guatemala · Remote-first
+Building tools for AI-assisted workflows, automation systems, and client work, designed to be practical, documented, and usable without complexity.
 
-#### ⚙️ What I do
-- Build tools and systems (APIs, MCPs, automation)
-- Architect and debug integrations across platforms
-- Improve reliability, visibility, and data accuracy
-- Translate complex technical issues into clear, actionable solutions
+## Work
 
-#### 🚀 Working with
-TypeScript, JavaScript, Python, SQL, APIs, MCPs, Webhooks, and more.
+Current focus:
 
-#### 🧩 Current focus
-- Building local-first tools and MCP servers
-- Exploring AI-assisted workflows and system design
+- ⧉ MCP servers
+- ∴ AI-assisted workflow tools
+- ⚙ Automation utilities
+- ✦ Creative productivity systems
+- ▣ Tools for independent builders
 
-✨ Interested in technology, science, photography, and design  
-👋 hello@solimancifuentes.com | [linkedin.com/aleexcif](https://www.linkedin.com/in/aleexcif/)
+## Projects
+
+### MCP Servers
+
+An MCP project designed to support practical workflow integration.
+Documentation and release details will be added with the public launch.
+
+### AI Development System
+
+A product for independent builders and solo operators.
+Documentation and release details will be added with the public launch.
+
+## Principles
+
+I build with a preference for:
+
+- Clarity
+- Restraint
+- Reliability
+- Useful defaults
+- Clean documentation
+- Respect for the user’s time
+
+## Using my tools
+
+Each public project is intended to include:
+
+- A clear purpose
+- Setup instructions
+- Usage examples
+- Known limitations
+- A practical path to getting started
+
+Issues, corrections, and thoughtful suggestions are welcome.
