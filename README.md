@@ -1,5 +1,4 @@
-Building tools for AI-assisted workflows, automation systems, and client work, designed to be practical, documented, and usable without complexity.
-
+Building tools for AI-assisted workflows, automation systems, and client work, designed to be practical, documented, and usable.
 ## Work
 
 Current focus:
